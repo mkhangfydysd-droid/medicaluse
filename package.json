@@ -1,0 +1,15 @@
+{
+  "name": "medical-student-portfolio",
+  "version": "1.0.0",
+  "description": "A medical student portfolio site featuring a bio, clinical rotation timeline, conditions & wellness write-ups, and an office-hours booking section.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "medical-student",
+    "static-site"
+  ],
+  "license": "UNLICENSED"
+}
